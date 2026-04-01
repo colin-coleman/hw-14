@@ -65,23 +65,24 @@ img {
 }
 
 .mudkip  {
-   grid-area: mudkip;
+  grid-area: mudkip;
+  justify-self: end;
 }
 
 .piplup {
-   grid-area: piplup;
+  grid-area: piplup;
 }
 
 .chimchar {
-   grid-area: chimchar;
+  grid-area: chimchar;
 }
 
 .cyndaquil {
-   grid-area: cyndaquil;
+  grid-area: cyndaquil;
 }
 
 .torchic{
-   grid-area: torchic;
+  grid-area: torchic;
 }
 
 .overlap-grid {
